@@ -1,15 +1,12 @@
-# Presentación de Programación con Objetos I
-- [x] Universidad Nacional de Hurlingham- [UNAHUR](https://unahur.edu.ar)
-- [x] Instituto de Tecnología e Ingeniería 
-- [x] Licenciatura en Informática
-- [x] Pagína Web de [Cursada](https://obj1-unahur.github.io/)
+#  Presentación de Programaci ón con Objetos I de Lucila Portillo
+- [x] Estudio en la Universidad Nacional de Hurlingham- [UNAHUR](https://unahur.edu.ar)
+- [x] Instituto de Tecnología e Ingeniería
+- [x] Tecnicatura en Programación
+- [x] Tengo 18 años
 
 ## Este cuatrimestre 
-* Modalidad Mixta - [Cronograma de Clase](https://docs.google.com/spreadsheets/d/19FZB2t00NWQ7dwygWRktajAV2mjbeTOqePBJ9XRWacw/edit?usp=sharing). 
-* 2 Comisiones (C1-Mañana / C2-Noche), pero es la misma materia y utilizamos la misma página.
-* Un docente principal por comisión con clases independientes. 
-* Este cuantrimestre los profesores somos [Gerardo González], **Lucas Spigariol** y **Hernan Coniglio**
-* Vamos a tener distintas alternativas de horarios para consultas y práctica.
+* Me encuentro cursando Programación con Objetos 1, Estructura de Datos y  Taller de lenguajes de marcado y tecnologías web
 
-## dejamos una reflexión 🤪
-![somos todos](https://github.com/obj1-unahur-2022s1/PresentacionPersonal/blob/main/meme.jpg)
+## Está es mi primera presentación
+- [x] Espero que se vea bien...
+![somos todos](https://www.google.com/search?q=stickers+memes&tbm=isch&ved=2ahUKEwii5Ym04v_2AhUkOLkGHYg9DOAQ2-cCegQIABAA&oq=stickers+memes&gs_lcp=CgNpbWcQAzIHCAAQsQMQQzIICAAQgAQQsQMyCwgAEIAEELEDEIMBMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoHCCMQ7wMQJzoECAAQQ1DVBFj8DmC0EGgAcAB4AIABQ4gBqgOSAQE3mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=6bNNYuLMMaTw5OUPiPuwgA4&bih=695&biw=1360&rlz=1C1CHBF_esAR991AR991#imgrc=X84b0QpB7y-gcM)
