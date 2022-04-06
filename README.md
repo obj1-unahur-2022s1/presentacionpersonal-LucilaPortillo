@@ -1,4 +1,4 @@
-#  Presentación de Programaci ón con Objetos I de Lucila Portillo
+#  Presentación de Programación con Objetos I de Lucila Portillo
 - [x] Estudio en la Universidad Nacional de Hurlingham- [UNAHUR](https://unahur.edu.ar)
 - [x] Instituto de Tecnología e Ingeniería
 - [x] Tecnicatura en Programación
